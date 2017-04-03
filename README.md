@@ -14,13 +14,14 @@ Knowledge used:
 * [333networks Wiki - MasterServer](http://wiki.333networks.com/index.php/MasterServer)
 
 To be done:
-* Implement a functionallity to identify other masterservers running a instance of this code, so a better synchronization can be negociated.
-* Implement the security challanges functionalities - currently accepting anything, works with the game title DeusEx (2000)
+* Implement a functionality to identify other masterservers running a instance of this code, so a better synchronization can be negociated.
+* Implement the security challanges functionalities - currently accepting anything, works with the game title DeusEx (2000) -
 * Further tests
 
 Tested locally with DeusEx (2000) and it's more popular masterservers.
 
-To test this:
-Install [Node.js](https://nodejs.org/en/), run 'node UE1OpenSourceMasterServer.js'
+To run this:
+* Install [Node.js](https://nodejs.org/en/)
+* Run 'node UE1OpenSourceMasterServer.js'
 
 Use it as it pleases you (studying, improving on it, hosting it, using locally, etc)!
